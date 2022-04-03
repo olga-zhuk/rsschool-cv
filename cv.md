@@ -9,3 +9,11 @@
 ## **About me**
 I graduated from the Belarusian State Pedagogical University. I studied mathematics and computer science.
 I studied turbo pascal 10 years ago. I have no experience in IT. I will master the skills after graduation rsschool. I worked at school for 12 years and decided to try myself in the field of IT.
+## **Skills and Proficiency:**
+* HTML5
+* CSS3 
+* JavaScript Basics 
+* Git
+* GitHub 
+* VS Code
+* Figma
