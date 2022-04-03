@@ -29,3 +29,12 @@ a and b will both be positive integers, and a will always be the first number in
 case 'subtract': result2 = a - b; return result2; 
 case 'multiply': result3 = a * b; return result3;
 case 'divide': result4 = a / b; return result4 } }```
+
+## Courses: on the it-junior 
+* **HTML, HTML5 Basic:** 100%; 
+* **CSS Basic:** 100%; 
+* **Javascript Basic:** 92%
+
+## Languages:
+* My *English* level is A1-A2. I want to improve my English.
+* *Russian* - Native
